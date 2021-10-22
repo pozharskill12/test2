@@ -1,1 +1,2 @@
-print(hello/nworld)
+
+print("hello", "world")
